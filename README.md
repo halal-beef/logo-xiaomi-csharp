@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a partial rewrite of [logo-xiaomi](http://github.com/penn5/logo-xiaomi/) in C\
+This is a partial rewrite of [logo-xiaomi](http://github.com/penn5/logo-xiaomi/) in C#
 
 ## Status
 
